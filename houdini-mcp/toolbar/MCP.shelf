@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <toolshelf name="houdinimcp22" label="MCP">
+    <memberTool name="houdinimcp22_start"/>
+    <memberTool name="houdinimcp22_stop"/>
+  </toolshelf>
+  <tool name="houdinimcp22_start" label="Start MCP" icon="BUTTONS_play">
+    <script scriptType="python"><![CDATA[
+from pathlib import Path
+import os, runpy
+p = Path(os.environ["HOUDINI_MCP_ROOT"]) / "start_mcp.py"
+runpy.run_path(str(p))
+]]></script>
+  </tool>
+  <tool name="houdinimcp22_stop" label="Stop MCP" icon="BUTTONS_stop">
+    <script scriptType="python"><![CDATA[
+import houdinimcp
+houdinimcp.stop_server()
+]]></script>
+  </tool>
+</shelfDocument>

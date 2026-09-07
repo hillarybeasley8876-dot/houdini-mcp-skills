@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+urls.env
+.env
+.env.*
+!.env.example
+backups/
+config/generated/
+last-start.json
+*.log
+.DS_Store
+Thumbs.db

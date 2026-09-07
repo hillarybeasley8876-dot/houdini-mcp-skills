@@ -1,0 +1,14 @@
+{
+  "source": "https://github.com/capoomgit/houdini-mcp",
+  "commit": "de4fd93acc207fc57c02b330d421461f5963a945",
+  "houdini_version": "22.0.368",
+  "houdini_python": "3.13",
+  "bridge_python": "3.12",
+  "host": "127.0.0.1",
+  "port": 9877,
+  "patches": [
+    "UI event loop instead of QTimer",
+    "FastMCP instructions argument",
+    "Separate Houdini port 9877"
+  ]
+}

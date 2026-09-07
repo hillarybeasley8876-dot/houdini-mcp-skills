@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-08",
+  "offline_install": "PASS: clean Windows CPython 3.12 venv; --no-index; all 41 locked packages installed",
+  "pip_check": "PASS: No broken requirements found",
+  "generated_config": "PASS: TOML/JSON parsed; command/script/package paths exist; port 9877 agrees",
+  "fresh_venv_mcp": "PASS: stdio handshake; 25 tools enumerated",
+  "active_skill_markdown_links": "PASS",
+  "python_syntax": "PASS",
+  "credential_pattern_scan": "PASS; original credentials/configs excluded by allowlist",
+  "gui_scene_test": "NOT RUN: no live Houdini GUI/listener during packaging; run verify_mcp.py --scene after installation",
+  "opus": "NOT RUN: optional service is not configured",
+  "original_machine_modified": false
+}

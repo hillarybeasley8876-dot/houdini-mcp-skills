@@ -1,0 +1,65 @@
+{
+  "not_bundled_yet": [
+    [
+      "skills\\houdini-architect-analysis\\METHODOLOGY.md",
+      "01_all_wrangles.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\knowledge\\houdini_manual\\01_getting_started\\basics\\01_introduction.md",
+      "02_userinterface.md",
+      "future learning chapter, not yet written"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\knowledge\\houdini_manual\\01_getting_started\\basics\\01_introduction.md",
+      "08_networks.md",
+      "future learning chapter, not yet written"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\knowledge\\houdini_manual\\01_getting_started\\basics\\01_introduction.md",
+      "13_cooking.md",
+      "future learning chapter, not yet written"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\knowledge\\houdini_manual\\01_getting_started\\basics\\01_introduction.md",
+      "02_userinterface.md",
+      "future learning chapter, not yet written"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\knowledge\\houdini_manual\\01_getting_started\\basics\\INDEX.md",
+      "99_reflection.md",
+      "future learning chapter, not yet written"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "a.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "b.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "c.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "01_xxx.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "02_yyy.md",
+      "template or generated output"
+    ],
+    [
+      "skills\\houdini-manual-deepdive\\templates\\CHAPTER.md",
+      "99_reflection.md",
+      "template or generated output"
+    ]
+  ],
+  "note": "Examples and future learning outputs are not missing runtime dependencies."
+}
